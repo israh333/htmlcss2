@@ -1,6 +1,7 @@
 body {
-  background-color: lightblue;
+  background:  grey url('../images/achtergrond-website.jpg') repeat;
 }
 h1 {
-  color: yellow;
+  color: red;
 }
+<link rel="stylesheet" href="index1.html">
